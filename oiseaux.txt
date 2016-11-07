@@ -3,7 +3,6 @@ Nette rousse
 Canard pilet
 Canard chipeau
 Rossignol
-=======
 Canard siffleur
 Sarcelle d'hiver
 Chevalier culblanc
@@ -11,3 +10,4 @@ Chevalier aboyeur
 Courlis corlieu
 Courlis cendré
 Martinet
+Rouge-gorge
